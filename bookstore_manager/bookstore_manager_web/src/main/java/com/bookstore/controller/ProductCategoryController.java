@@ -18,14 +18,16 @@ import java.util.List;
 @RequestMapping("/product_category")
 public class ProductCategoryController {
     @Autowired
-    private ProductCategoryService productCategoryService;
+    ProductCategoryService productCategoryService;
+
     /**
-     * 根据parentId返回数据列表
+     * 根据parentid返回数据列表
      */
     @RequestMapping("/list")
     @ResponseBody
-    public List<EasyUITree> getProductCategoryByParentId(@RequestParam(value = "id",defaultValue = "0")Short parentId){
-        List<EasyUITree> easyUITrees = productCategoryService.findProductCategoryByParentId(parentId);
+    public List<EasyUITree> getProductCategoryByParentId(@RequestParam(value = "id", defaultValue = "0") Short
+                                                                 parentId) {
+        List<EasyUITree> easyUITrees = productCategoryService.findProductCategoryListByParentId(parentId);
         return easyUITrees;
     }
 
@@ -35,8 +37,18 @@ public class ProductCategoryController {
      */
     @RequestMapping("/add")
     @ResponseBody
-    public ResponseJsonResult addCategory(Short parentId, String name) {
+    public ResponseJsonResult addCategory(Short parentId,String name){
         ResponseJsonResult responseJsonResult = productCategoryService.addCategory(parentId, name);
+        return responseJsonResult;
+    }
+
+    /**
+     * 删除分类
+     */
+    @RequestMapping("/del")
+    @ResponseBody
+    public ResponseJsonResult delCategory(Short parentId,Short id){
+        ResponseJsonResult responseJsonResult = productCategoryService.deleteCategory(parentId, id);
         return responseJsonResult;
     }
 }

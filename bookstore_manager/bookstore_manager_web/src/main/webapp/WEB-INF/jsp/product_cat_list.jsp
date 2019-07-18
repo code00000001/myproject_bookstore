@@ -13,7 +13,6 @@
 </div>
 
 <script type="text/javascript">
-
     $(function () {
 
         $('#productCategory').tree({
@@ -98,8 +97,6 @@
             }
         })
     }
-
-
 
 </script>
 

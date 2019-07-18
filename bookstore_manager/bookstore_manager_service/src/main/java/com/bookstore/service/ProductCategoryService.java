@@ -6,13 +6,9 @@ import pojo.ResponseJsonResult;
 import java.util.List;
 
 public interface ProductCategoryService {
-    List<EasyUITree> findProductCategoryByParentId(Short parentId);
+    List<EasyUITree> findProductCategoryListByParentId(Short parentid);
 
-    /**
-     * 添加菜单
-     * @param parentId
-     * @param name
-     * @return
-     */
-    ResponseJsonResult addCategory(Short parentId, String name);
+    ResponseJsonResult addCategory(Short parentid, String name);
+
+    ResponseJsonResult deleteCategory(Short parentId, Short id);
 }

@@ -13,33 +13,72 @@ import java.util.ArrayList;
 import java.util.List;
 @Service
 public class ProductCategoryServiceImpl implements ProductCategoryService {
+
+
     @Autowired
     private ProductCategoryMapper productCategoryMapper;
+
     @Override
-    public List<EasyUITree> findProductCategoryByParentId(Short parentId) {
-        ProductCategoryExample example = new ProductCategoryExample();
-        ProductCategoryExample.Criteria criteria = example.createCriteria();
-        criteria.andParentIdEqualTo(parentId);
-        List<ProductCategory> productCategoryList = productCategoryMapper.selectByExample(example);
-        List<EasyUITree> easyUITrees = new ArrayList<>();
-        for (ProductCategory productCategory : productCategoryList) {
-            EasyUITree easyUITree = new EasyUITree();
-            easyUITree.setId(productCategory.getId());
-            easyUITree.setText(productCategory.getName());
-            easyUITree.setState(productCategory.getParentId() == 0?"closed":"open");
-            easyUITrees.add(easyUITree);
+    public List<EasyUITree> findProductCategoryListByParentId(Short parentid) {
+
+        ProductCategoryExample productCategoryExample = new ProductCategoryExample();
+        ProductCategoryExample.Criteria criteria = productCategoryExample.createCriteria();
+        criteria.andParentIdEqualTo(parentid);
+        List<ProductCategory> productCategoryList = productCategoryMapper.selectByExample(productCategoryExample);
+
+        List<EasyUITree> easyUITrees = new ArrayList<>(productCategoryList.size());
+
+        for (ProductCategory productCategory:productCategoryList) {
+
+            EasyUITree easyuiTree = new EasyUITree();
+
+            easyuiTree.setId(productCategory.getId());
+            easyuiTree.setText(productCategory.getName());
+            easyuiTree.setState(productCategory.getParentId()==0?"closed":"open");
+            easyuiTree.setAttributes(productCategory.getParentId()+"");
+
+            easyUITrees.add(easyuiTree);
         }
+
         return easyUITrees;
     }
 
     @Override
-    public ResponseJsonResult addCategory(Short parentId, String name) {
+    public ResponseJsonResult addCategory(Short parentid, String name) {
+
         ProductCategory productCategory = new ProductCategory();
-        productCategory.setId(parentId);
+        productCategory.setParentId(parentid);
         productCategory.setName(name);
+
         productCategoryMapper.insert(productCategory);
+
         ResponseJsonResult responseJsonResult = new ResponseJsonResult();
         responseJsonResult.setMsg(productCategory.getId()+"");
+
+        return responseJsonResult;
+    }
+
+    @Override
+    public ResponseJsonResult deleteCategory(Short parentid, Short id) {
+
+        ProductCategoryExample productCategoryExample = new ProductCategoryExample();
+        ProductCategoryExample.Criteria criteria = productCategoryExample.createCriteria();
+
+        if(parentid == 0){
+            criteria.andIdEqualTo(id);
+            ProductCategoryExample.Criteria criteria1 = productCategoryExample.createCriteria();
+            criteria1.andParentIdEqualTo(id);
+            productCategoryExample.or(criteria1);
+        }else{
+            criteria.andIdEqualTo(id);
+        }
+
+        productCategoryMapper.deleteByExample(productCategoryExample);
+
+        ResponseJsonResult responseJsonResult = new ResponseJsonResult();
+        responseJsonResult.setStatus(200);
+        responseJsonResult.setMsg("success");
+
         return responseJsonResult;
     }
 }
