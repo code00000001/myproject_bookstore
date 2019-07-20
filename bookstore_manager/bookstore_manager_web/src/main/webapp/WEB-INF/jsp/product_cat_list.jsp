@@ -75,13 +75,7 @@
 
     };
 
-    function rename() {
-        var tree =  $('#productCategory');
-        var node = tree.tree('getSelected');
 
-        tree.tree("beginEdit",node.target);
-
-    };
 
     function remove() {
         var tree =  $('#productCategory');

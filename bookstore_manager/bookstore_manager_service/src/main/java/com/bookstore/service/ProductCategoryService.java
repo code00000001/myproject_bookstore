@@ -11,4 +11,6 @@ public interface ProductCategoryService {
     ResponseJsonResult addCategory(Short parentid, String name);
 
     ResponseJsonResult deleteCategory(Short parentId, Short id);
+
+
 }

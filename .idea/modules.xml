@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookstore.iml" filepath="$PROJECT_DIR$/bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_common/bookstore_common.iml" filepath="$PROJECT_DIR$/bookstore_common/bookstore_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager.iml" filepath="$PROJECT_DIR$/bookstore_manager/bookstore_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/bookstore_manager_mapper.iml" filepath="$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/bookstore_manager_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_pojo/bookstore_manager_pojo.iml" filepath="$PROJECT_DIR$/bookstore_manager/bookstore_manager_pojo/bookstore_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/bookstore_manager_service.iml" filepath="$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/bookstore_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/bookstore_manager_web.iml" filepath="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/bookstore_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_parent/bookstore_parent.iml" filepath="$PROJECT_DIR$/bookstore_parent/bookstore_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_portal/bookstore_portal.iml" filepath="$PROJECT_DIR$/bookstore_portal/bookstore_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_redis/bookstore_redis.iml" filepath="$PROJECT_DIR$/bookstore_redis/bookstore_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_rest/bookstore_rest.iml" filepath="$PROJECT_DIR$/bookstore_rest/bookstore_rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_search/bookstore_search.iml" filepath="$PROJECT_DIR$/bookstore_search/bookstore_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookstore_sso/bookstore_sso.iml" filepath="$PROJECT_DIR$/bookstore_sso/bookstore_sso.iml" />
+    </modules>
+  </component>
+</project>

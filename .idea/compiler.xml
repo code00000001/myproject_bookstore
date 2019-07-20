@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bookstore_common" />
+        <module name="bookstore_manager_mapper" />
+        <module name="bookstore_manager_pojo" />
+        <module name="bookstore_manager_service" />
+        <module name="bookstore_manager_web" />
+        <module name="bookstore_portal" />
+        <module name="bookstore_redis" />
+        <module name="bookstore_rest" />
+        <module name="bookstore_search" />
+        <module name="bookstore_sso" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bookstore_common" target="1.8" />
+      <module name="bookstore_manager" target="1.8" />
+      <module name="bookstore_manager_mapper" target="1.8" />
+      <module name="bookstore_manager_pojo" target="1.8" />
+      <module name="bookstore_manager_service" target="1.8" />
+      <module name="bookstore_manager_web" target="1.8" />
+      <module name="bookstore_parent" target="1.8" />
+      <module name="bookstore_portal" target="1.8" />
+      <module name="bookstore_redis" target="1.8" />
+      <module name="bookstore_rest" target="1.8" />
+      <module name="bookstore_search" target="1.8" />
+      <module name="bookstore_sso" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

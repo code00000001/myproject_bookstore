@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import pojo.EasyUITree;
 import pojo.ResponseJsonResult;
 
+import javax.naming.Name;
 import java.util.List;
 
 /**
@@ -51,4 +52,6 @@ public class ProductCategoryController {
         ResponseJsonResult responseJsonResult = productCategoryService.deleteCategory(parentId, id);
         return responseJsonResult;
     }
+
+
 }
