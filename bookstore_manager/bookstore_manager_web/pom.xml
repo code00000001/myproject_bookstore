@@ -58,7 +58,15 @@
             <artifactId>servlet-api</artifactId>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.json</groupId>
+            <artifactId>json</artifactId>
+        </dependency>
 
+        <dependency>
+            <groupId>com.baidu</groupId>
+            <artifactId>ueditor</artifactId>
+        </dependency>
 
     </dependencies>
 

@@ -1,5 +1,6 @@
 package com.bookstore.controller;
 
+
 import com.bookstore.fastdfs.FastDFSClient;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,11 +15,12 @@ import java.io.IOException;
 public class FileController {
     @RequestMapping(value = "uploadfile",method = RequestMethod.POST)
     @ResponseBody
-    public String fileUpLoad(@RequestParam MultipartFile uploadfile) throws IOException {
-        String fileId = FastDFSClient.uploadFile(uploadfile.getInputStream(), uploadfile.getOriginalFilename());
-        if (fileId != null){
-            System.out.println("上传文件成功");
+    public String fileupload(@RequestParam MultipartFile uploadfile) throws IOException {
+        String fileID = FastDFSClient.uploadFile(uploadfile.getInputStream(), uploadfile.getOriginalFilename());
+        if(fileID!=null){
+            System.out.print("上传文件成功");
         }
-        return fileId + "---" + uploadfile.getOriginalFilename();
+        return fileID;
+
     }
 }
