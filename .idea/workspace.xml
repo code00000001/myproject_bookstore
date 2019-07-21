@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bookstore_manager_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41caa2bf-f0ad-46d7-949b-544e0d0db131" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/FreemarkerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/ftl/hello.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/hi.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/bookstore_parent/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_parent/bookstore_common/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_common/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_manager/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_rest/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_sso/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_redis/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_search/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_manager/bookstore_manager_pojo/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/target/" />
+    <ignored path="$PROJECT_DIR$/bookstore_portal/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/spring/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FreemarkerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/FreemarkerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/ftl/hello.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hi.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/hi.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>manong-manager</find>
+      <find>attributes</find>
+      <find>insert</find>
+      <find>manager</find>
+      <find>manong</find>
+      <find>fastdfs</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>bookstore_manager</replace>
+      <replace>portal</replace>
+      <replace>bookstore</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/mybatis/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/pom.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/spring/applicationContext-trans.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/properties/db.properties" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_pojo/src/main/java/com/bookstore/pojo/Product.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/src/main/java/com/bookstore/mapper/ProductCategoryMapper.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/src/main/java/com/bookstore/mapper/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/src/main/java/com/bookstore/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/src/main/java/com/bookstore/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/src/main/java/com/bookstore/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/src/main/java/com/bookstore/service/UserService.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/src/main/java/com/bookstore/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/product_list.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/ProductListController.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/bookstore_common/src/main/java/pojo/ResponseResult.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_pojo/src/main/java/com/bookstore/pojo/ProductCategory.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/src/main/java/com/bookstore/mapper/ProductCategoryMapper.xml" />
+        <option value="$PROJECT_DIR$/bookstore_common/src/main/java/pojo/EasyUITree.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/product_cat_list.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/ProductCategoryController.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/src/main/java/com/bookstore/service/ProductCategoryService.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/src/main/java/com/bookstore/service/impl/ProductCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/bookstore_portal/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/bookstore_portal/src/main/java/com/bookstore/portal/controller/FreemarkerTest.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/bookstore_portal/pom.xml" />
+        <option value="$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/ftl/hello.ftl" />
+        <option value="$PROJECT_DIR$/bookstore_portal/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_portal/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/fastdfs/FastDfsClient.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/FileController.java" />
+        <option value="$PROJECT_DIR$/bookstore_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/editor_test.jsp" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/FreemarkerController.java" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/ftl/hello.ftl" />
+        <option value="$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/hi.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repo3other\kendinghui" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="showIgnored" value="false" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookstore_manager_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookstore_manager_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookstore_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookstore_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="runMavenInBackground" value="false" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1190" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="ftl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookstore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookstore" type="462c0819:PsiDirectoryNode" />
+              <item name="bookstore_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Git/fastdfs-client-java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\bookstore\bookstore_manager\bookstore_manager_web\src\main\webapp\WEB-INF\jsp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\bookstore\bookstore_manager\bookstore_manager_web\src\main\resources\config" />
+      <recent name="D:\IdeaProjects\bookstore\bookstore_manager\bookstore_manager_web\src\main\resources\spring" />
+      <recent name="D:\IdeaProjects\bookstore\bookstore_portal\src\main\java\com\bookstore\portal\controller" />
+      <recent name="D:\IdeaProjects\bookstore\bookstore_portal\src\main\webapp\WEB-INF" />
+      <recent name="D:\IdeaProjects\bookstore\bookstore_portal\src\main\resources\spring" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bookstore.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.bookstore_manager_web">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="bookstore_manager" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/bookstore_manager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="portal" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/bookstore_portal" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="bookstore_manager_web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="bookstore_manager_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_bookstore_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1148" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="bookstore_manager_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.bookstore_manager" />
+      <item itemvalue="Maven.portal" />
+      <item itemvalue="Tomcat Server.bookstore_manager_web" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41caa2bf-f0ad-46d7-949b-544e0d0db131" name="Default" comment="" />
+      <created>1562492129563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562492129563</updated>
+      <workItem from="1562492130834" duration="96000" />
+      <workItem from="1562492298403" duration="6942000" />
+      <workItem from="1562561419578" duration="594000" />
+      <workItem from="1562591869724" duration="22000" />
+      <workItem from="1562676636945" duration="599000" />
+      <workItem from="1562717465935" duration="480000" />
+      <workItem from="1562980131554" duration="26574000" />
+      <workItem from="1563064343582" duration="6056000" />
+      <workItem from="1563192474894" duration="3815000" />
+      <workItem from="1563232467981" duration="4031000" />
+      <workItem from="1563252561999" duration="931000" />
+      <workItem from="1563322549247" duration="516000" />
+      <workItem from="1563367202455" duration="3628000" />
+      <workItem from="1563406289314" duration="1695000" />
+      <workItem from="1563426671748" duration="35000" />
+      <workItem from="1563452714612" duration="6135000" />
+      <workItem from="1563512336082" duration="596000" />
+      <workItem from="1563592873271" duration="5648000" />
+      <workItem from="1563602768943" duration="8000" />
+      <workItem from="1563609637339" duration="3946000" />
+      <workItem from="1563615885574" duration="1887000" />
+      <workItem from="1563665307057" duration="2572000" />
+      <workItem from="1563694440395" duration="2015000" />
+      <workItem from="1563702022028" duration="852000" />
+      <workItem from="1563703565539" duration="2064000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1563406982070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563406982070</updated>
+    </task>
+    <task id="LOCAL-00002" summary="书籍分类，增删改查">
+      <created>1563457114165</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563457114165</updated>
+    </task>
+    <task id="LOCAL-00003" summary="springmvc整合fastdfs文件上传&#10;nginx还有bug未解">
+      <created>1563617159592</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563617159592</updated>
+    </task>
+    <task id="LOCAL-00004" summary="springmvc整合ueditor富文本编辑器功能，并且修复fastdfs的文件上传功能">
+      <created>1563704998328</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563704998328</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="81737000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="31" y="-9" width="1898" height="1098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010965" side_tool="true" weight="0.57255346" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.3295838" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="JSON Viewer" order="8" weight="0.3294956" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.5005612" side_tool="true" weight="0.27307692" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.4989035" weight="0.37007874" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3295838" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49945176" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.47469068" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5264342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49943882" visible="true" weight="0.24177632" />
+      <window_info id="Web" order="6" sideWeight="0.5005612" side_tool="true" weight="0.22417583" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="JSF" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.3295838" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.47469068" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5264342" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="JSF" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010965" side_tool="true" weight="0.57255346" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3295838" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49945176" weight="0.3295838" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32894737" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49943882" visible="true" weight="0.24177632" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info id="Web" order="6" sideWeight="0.5005612" side_tool="true" weight="0.22417583" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.5005612" side_tool="true" weight="0.27307692" />
+      <window_info anchor="right" id="JSON Viewer" order="8" weight="0.3294956" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.4989035" weight="0.37007874" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="书籍分类，增删改查" />
+    <MESSAGE value="springmvc整合fastdfs文件上传&#10;nginx还有bug未解" />
+    <MESSAGE value="springmvc整合ueditor富文本编辑器功能，并且修复fastdfs的文件上传功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="springmvc整合ueditor富文本编辑器功能，并且修复fastdfs的文件上传功能" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="21" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/src/main/java/com/bookstore/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/ProductListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.3.RELEASE/spring-aop-4.1.3.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.3.RELEASE/spring-aop-4.1.3.RELEASE.jar!/org/springframework/aop/interceptor/ExposeInvocationInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.1.3.RELEASE/spring-tx-4.1.3.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_pojo/src/main/java/com/bookstore/pojo/ProductCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_common/src/main/java/pojo/EasyUITree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/src/main/java/com/bookstore/mapper/ProductCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="88" column="25" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_mapper/src/main/java/com/bookstore/mapper/ProductCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.3.RELEASE/spring-aop-4.1.3.RELEASE.jar!/org/springframework/aop/support/AopUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/product_cat_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2156">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/ProductCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/src/main/java/com/bookstore/service/ProductCategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_common/src/main/java/pojo/ResponseJsonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_service/src/main/java/com/bookstore/service/impl/ProductCategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/page2.jsp" />
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/helloWorld.jsp" />
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/faces-config.xml" />
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/ftl/index.ftl" />
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/ftl/login.html" />
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/ftl/Product.ftl" />
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/ftl/Select.html" />
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/ftl/shopcar.html" />
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/ftl/comment.html" />
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/java/com/bookstore/portal/controller/FreemarkerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/ftl/hello.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-517">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_portal/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/csource/fastdfs-client-java/1.27-SNAPSHOT/fastdfs-client-java-1.27-SNAPSHOT.jar!/org/csource/fastdfs/ClientGlobal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.0.pr1/jackson-annotations-2.10.0.pr1.jar!/module-info.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/fastdfs/FastDFSClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/ueditor/ueditor.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/ueditor/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="16" selection-end-line="174" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/editor_test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="167" column="25" lean-forward="true" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/java/com/bookstore/controller/FreemarkerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/ftl/hello.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore_manager/bookstore_manager_web/src/main/webapp/WEB-INF/jsp/hi.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>bookstore_manager_web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bookstore</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
